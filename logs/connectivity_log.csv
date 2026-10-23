@@ -1,1 +1,5 @@
-
+timestamp,name,address,status
+2026-10-22T22:55:40,Local Router,10.250.255.254,ONLINE
+2026-10-22T22:55:40,Google DNS,8.8.8.8,ONLINE
+2026-10-22T22:55:43,Cloudflare DNS,1.1.1.1,OFFLINE
+2026-10-22T22:55:46,Test Offline Device,192.0.2.1,OFFLINE
